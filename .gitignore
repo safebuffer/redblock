@@ -1,3 +1,8 @@
+vendor/*
+objs/*
+outs.txt
+ips.txt
+ee.py
 # Prerequisites
 *.d
 
